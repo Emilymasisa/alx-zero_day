@@ -1,2 +1,1 @@
-My first readme updated
-This is the README.md file for the 0x03-git directory.
+# alx-zero_day
